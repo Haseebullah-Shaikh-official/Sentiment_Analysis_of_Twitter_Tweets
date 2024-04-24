@@ -5,4 +5,4 @@
 - Trained and evaluated the model using four different models (Naïve Bayes, SVM, Logistic Regression, and CNN) 
 - Evaluated and compared the models using confusion matrix 
 
-- Note: Dataset was quite big, couldn't share on git. Will be shared upon request.
+Note: Dataset was quite big, couldn't share on git. Will be shared upon request.
